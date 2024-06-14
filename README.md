@@ -25,3 +25,5 @@ For restaurants, our RMS reduces the time spent on taking orders, minimizes comm
 <div style="text-align:justify">
 Our team has chosen to adopt the Agile methodology for our project, specifically utilizing the Scrum framework to guide us to the final destination of our Restaurant Management System (RMS). Given the dynamic nature of our requirements, we anticipate changes and aim to develop the product incrementally. This approach allows us to complete each function required by the customers in iterative cycles, known as sprints. After each sprint, our product is enhanced with new, useful functionalities and a more convenient interface, enabling users to interact with the system more effectively and fulfill their needs. This iterative process not only ensures continuous improvement but also allows us to respond promptly to feedback and evolving requirements, ultimately leading to a robust and user-friendly RMS.
 </div>
+
+<img width ="672" alt="GFG" src="C:\Users\ASUS\Downloads\scrum.png">
