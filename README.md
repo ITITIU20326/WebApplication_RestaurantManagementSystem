@@ -11,9 +11,9 @@ Minnie Software Solution is a team specializing in software development, focusin
 
 | Order |                   Name                   |     ID      |              Task                              | Contribution |
 | :---: |:----------------------------------------:|:-----------:|:----------------------------------------------:|:------------:|
-|   1   |          Võ Đăng Trình                   | ITITIU20326 | Coding web functions and visualization diagrams|     33.3%    |
-|   2   |          Trần Thị Ngọc Tú                | ITITIU20338 | Construct web layout                           |     33.3%    |
-|   3   |          Lâm Nguyễn Phương Uyên          | ITITIU20348 | Store and organize collected data              |     33.3%    |
+|   1   |          Võ Đăng Trình                   | ITITIU20326 | Coding web functions                           |     33.3%    |
+|   2   |          Trần Thị Ngọc Tú                | ITITIU20338 | Construct web layout and design architecture   |     33.3%    |
+|   3   |          Lâm Nguyễn Phương Uyên          | ITITIU20348 | Construct web layout and data entry            |     33.3%    |
 
 ## THE PRODUCT'S INFORMATION
 <div style="text-align:justify">
